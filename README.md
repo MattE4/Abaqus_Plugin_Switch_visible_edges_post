@@ -2,7 +2,7 @@
 Plugin for Abaqus/CAE to quickly switch the visible edges in postprocessing
 
 <br>
-Plugin to quickly switch the visible edges in postprocessing. I use that action a lot, so I wanted a faster way to do it.
+I use that action a lot, so I wanted a faster way to do it.
 The plugin has no UI. Each call will switch between Exterior and Feature edges.
 
 <br><br>
